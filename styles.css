@@ -1,2 +1,5 @@
-
 /* Your CSS Code here. */
+.main{
+	display:flex;
+	justify-content:center;
+}
